@@ -11,7 +11,7 @@ curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/mas
 curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/master/backend.tf
 ```
 
-### backend
+### variables
 
 ```
 curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/master/variables.tf
