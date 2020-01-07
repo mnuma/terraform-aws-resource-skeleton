@@ -9,4 +9,8 @@ curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/mas
 curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/master/variables.tf
 ```
 
+### Makefile
 
+```
+curl -LO https://raw.githubusercontent.com/mnuma/terraform-resource-skeleton/master/Makefile
+```
